@@ -1,5 +1,4 @@
 # Fitness-buddy-matcher 
-(The Data Incubator Data Science Fellowship Capstone project)
 
 Motivation:
 I aim to create a web application where people can find fitness buddies to work out with. As someone interested in improving my fitness who had issues with motivation, I would've appreciated having a buddy to work out with. However, every time I tried to work out with a friend, it never worked because either we were at very different fitness levels, or we worked out on different schedules. I found apps online to find fitness buddies but none of them matched people based on the factors I cared about. 
